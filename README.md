@@ -1,2 +1,2 @@
 # hello-world
-A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+I work hard to gain experience that enables me to master my work in the field of programming and development, especially as I love this area because of the challenges and learning new things daily. 
